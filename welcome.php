@@ -17,7 +17,6 @@
                     <input type="text" name="nama" class="form-control" id="nama" placeholder="<?php echo $_POST["nama"]; ?>" disabled>
                     <div id="emailHelp" class="form-text">dh ahh males buat form yang lain hehe</div>
                </div>
-               <button type="submit" class="btn btn-primary">Kirim</button>
           </form>
      </div>
 
